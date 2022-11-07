@@ -44,7 +44,7 @@
 
 .food-container1 {
   display: flex;
-  margin-top: -45px;
+  margin-top: -15px;
   padding-bottom: 15px;
   justify-content: center;
 }
@@ -81,3 +81,33 @@
   } 
 }
 
+/* about */
+
+.about-container {
+  max-width: 900px;
+  margin: auto;
+  text-align: center;
+  margin-top: 35px;
+}
+
+.about-p1 {
+  font-size: 25px;
+}
+
+.about-p2 {
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 25px;
+}
+
+.about-p3 {
+  text-align: center;
+  line-height: 25px;
+  margin: 25px;
+}
+
+@media only screen and (max-width: 768px) {
+  img {
+    width: 95%;
+  }  
+}
