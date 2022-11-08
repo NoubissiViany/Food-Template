@@ -1,6 +1,6 @@
 * {
-  box-sizing: border-box; 
-  overflow-x: hidden;   
+  box-sizing: border-box;
+  overflow-x: hidden;
 }
 
 /* Navbar */
@@ -170,15 +170,13 @@ label {
 }
 
 @media only screen and (max-width: 768px) {
-  .footer-container1 {
-    
-  }
   .footer-p1 {
     font-size: 20px;
   }
+
   .about-container img {
     width: 95%;
-  } 
+  }
 }
 
 @media only screen and (max-width: 425px) {
@@ -197,5 +195,5 @@ label {
 
   .food-container {
     display: block;
-  } 
+  }
 }
