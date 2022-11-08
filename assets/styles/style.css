@@ -22,7 +22,7 @@
   display: grid;
   grid-template-columns: auto auto auto auto;
   max-width: 1150px;
-  margin: 100px 25px 0 55px ;
+  margin: 100px 25px 0 55px;
 }
 
 .food-container img {
